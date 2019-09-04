@@ -43,7 +43,7 @@
   "homepage": "https://github.com/josx/ra-data-feathers#readme",
   "peerDependencies": {
     "react-admin": "^2.1.1",
-    "@feathersjs/client": "^3.5.3"
+    "@feathersjs/client": "^4.3.0"
   },
   "dependencies": {
     "chai-as-promised": "^7.1.1",
